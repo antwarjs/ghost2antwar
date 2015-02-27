@@ -1,8 +1,10 @@
 {
   "name": "ghost2antwar",
-  "description": "",
+  "description": "Converts Ghost JSON to Antwar",
   "author": "Juho Vepsalainen <bebraw@gmail.com>",
   "version": "0.1.0",
+  "main": "./lib/convert.js",
+  "bin": "./index.js",
   "dependencies": {
   },
   "devDependencies": {
@@ -15,7 +17,13 @@
   "bugs": {
     "url": "https://github.com/bebraw/ghost2antwar/issues"
   },
-  "keywords": [],
+  "keywords": [
+    "antwar",
+    "blog",
+    "blogging",
+    "ghost",
+    "markdown"
+  ],
   "licenses": [
     {
       "type": "MIT",
