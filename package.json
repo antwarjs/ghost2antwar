@@ -2,7 +2,7 @@
   "name": "ghost2antwar",
   "description": "Converts Ghost JSON to Antwar",
   "author": "Juho Vepsalainen <bebraw@gmail.com>",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "main": "./lib/convert.js",
   "bin": "./index.js",
   "dependencies": {
