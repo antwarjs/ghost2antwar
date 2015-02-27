@@ -13,11 +13,11 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/bebraw/ghost2antwar.git"
+    "url": "https://github.com/antwarjs/ghost2antwar.git"
   },
-  "homepage": "https://github.com/bebraw/ghost2antwar",
+  "homepage": "https://github.com/antwarjs/ghost2antwar",
   "bugs": {
-    "url": "https://github.com/bebraw/ghost2antwar/issues"
+    "url": "https://github.com/antwarjs/ghost2antwar/issues"
   },
   "keywords": [
     "antwar",
@@ -29,7 +29,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/bebraw/ghost2antwar/blob/master/LICENSE"
+      "url": "https://github.com/antwarjs/ghost2antwar/blob/master/LICENSE"
     }
   ]
 }
